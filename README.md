@@ -1,19 +1,20 @@
-# Mahasiswa
-Aplikasi CRUD Mahasiswa berbasis <i>web</i> ini menggunakan Framework Bootstrap-3.3.7, PHP 5.6.24, dan Framework CodeIgniter-3.1.0
+# Project Description
+TravelinAja is a web application designed to highlight travel destinations in Indonesia, utilizing CRUD operations to manage its content. The app is built using the CodeIgniter PHP framework, styled with Tailwind CSS, and powered by MySQL for its database management system. Notable features include an admin dashboard for content management and a visually appealing landing page to attract users.
+For continuous development, user login and management systems for both admin and customer users have been implemented as well as the payment gateway and user personalized machine learning based recomendation system.
 
-Cara menginstall aplikasi ini pada komputer Anda (untuk OS Windows) : 
+## Preview
 
-1. Buat folder baru bernama mahasiswa pada direktori htdocs (di dalam folder XAMPP) 
+![image](https://github.com/tiarapus/TravelinAja-Web-App/assets/86874248/d0ca0d71-1abc-4a0e-b969-b9e512bee3cf)
 
-2. Download dan paste-kan semua file di atas (kecuali mahasiswa.sql) pada folder mahasiswa 
+![image](https://github.com/tiarapus/TravelinAja-Web-App/assets/86874248/570f0b49-6cc6-4c08-9566-975cac4258be)
 
-3. Import file mahasiswa.sql ke XAMPP
-   Terlebih dahulu buat database di XAMPP dengan nama mahasiswa. Kemudian, import file mahasiswa.sql ke database tersebut.
+![image](https://github.com/tiarapus/TravelinAja-Web-App/assets/86874248/43e9ed62-7d14-45d7-b393-e30ab2127f56)
 
-4. Buka <i>browser</i> Anda (Google, Firefox atau dll) 
+![image](https://github.com/tiarapus/TravelinAja-Web-App/assets/86874248/ac39cfed-a331-4b12-8b67-656ee8207cfb)
 
-5. Ketikkan http://localhost/mahasiswa/ pada <i>browser search bar</i>
+![image](https://github.com/tiarapus/TravelinAja-Web-App/assets/86874248/425890d1-7414-4f2b-8169-91d87196b435)
 
-6. Tekan Enter dan Anda akan melihat tampilan aplikasi (selesai)
+![image](https://github.com/tiarapus/TravelinAja-Web-App/assets/86874248/ab7d0e31-a84b-4e97-a625-649ab8a92296)
 
-<center> Selamat mencoba </center>
+
+
