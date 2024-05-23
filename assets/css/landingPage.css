@@ -1,0 +1,10 @@
+*, html {
+    scroll-behavior: smooth !important;
+}
+.bg-lp{
+    background-image: url("../images/backgrounds/indo.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
